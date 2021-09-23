@@ -42,6 +42,7 @@
     font-size: 40px;
     line-height: 47px;
     color: #FFFFFF;
+    white-space: nowrap;
 }
 
 .subjectList{
